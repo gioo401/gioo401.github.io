@@ -1,9 +1,9 @@
-<!DOCTYPE Html>
+
 <html lang="es">
-<head>
+
 <meta charset="UTF-8">
 <title> Emprendimiento </title>
-</head>
+
 <body>
 	<header>
 		<h1>Desayunitos unidos jamás serán vencidos!</h1>
@@ -110,8 +110,7 @@ table td {
         </tr>
         <tr>
         
-      </tbody>
-    </table>
+      
 
 <a target ="_blank" href="https://es.wikipedia.org/wiki/Panqueque">¿Quieres saber más sobre los Hot cakes?</a>
 <br>
@@ -126,11 +125,11 @@ table td {
   <source src="Hot cakes.mp4" type="video/mp4">
 </video>
 
-  </div>
-  <img src="cuernito.jpg" width="300">
-<img src="hot-cakes.jpg" width="300">
-<img src="Huevos.jpg" width="300">
-<img src="sandwich.jpg" width="300">
+  
+  <img src="cuernito.jpg" width="300" heigh="300">
+<img src="hot-cakes.jpg" width="300" heigh="300">
+<img src="Huevos.jpg" width="300" heigh="300">
+<img src="sandwich.jpg" width="300"heigh="300">
 
   <h4>Precios<h4>
   <ol>
@@ -145,5 +144,4 @@ table td {
 <div class="footer">
     <p>¡Esperamos ansiosos tu compra!</p>
   </div>
-</body
-</html>
+
