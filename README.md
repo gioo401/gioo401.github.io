@@ -127,10 +127,10 @@ table td {
 </video>
 
   </div>
-  <img src="cuernito.jpg" height="300">
-<img src="hot-cakes.jpg" height="300">
-<img src="Huevos.jpg" height="300">
-<img src="sandwich.jpg" height="300">
+  <img src="cuernito.jpg" height="300"width="300">
+<img src="hot-cakes.jpg" height="300"width="300">
+<img src="Huevos.jpg" height="300"width="300">
+<img src="sandwich.jpg" height="300"width="300">
 
   <h4>Precios<h4>
   <ol>
