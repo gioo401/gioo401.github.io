@@ -1,4 +1,4 @@
-
+<!DOCTYPE Html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -110,7 +110,8 @@ table td {
         </tr>
         <tr>
         
-
+      </tbody>
+    </table>
 
 <a target ="_blank" href="https://es.wikipedia.org/wiki/Panqueque">¿Quieres saber más sobre los Hot cakes?</a>
 <br>
@@ -125,11 +126,11 @@ table td {
   <source src="Hot cakes.mp4" type="video/mp4">
 </video>
 
-  
-  <img src="cuernito.jpg" height="300" width="300" align="middle">
-<img src="hot-cakes.jpg" height="300" width="300" align="middle">
-<img src="Huevos.jpg" height="300" width="300" align="middle">
-<img src="sandwich.jpg" height="300" width="300" align="middle">
+  </div>
+  <img src="cuernito.jpg" width="300" height="300">
+<img src="hot-cakes.jpg" width="300" height="300">
+<img src="Huevos.jpg" width="300" height="300">
+<img src="sandwich.jpg" width="300" height="300">
 
   <h4>Precios<h4>
   <ol>
@@ -144,6 +145,8 @@ table td {
 <div class="footer">
     <p>¡Esperamos ansiosos tu compra!</p>
   </div>
+</body
+</html>
 
 
 
